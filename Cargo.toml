@@ -1,0 +1,8 @@
+[package]
+name = "mio-netlink"
+version = "0.1.0"
+authors = ["Alexander Polyakov <apolyakov@beget.com>"]
+
+[dependencies]
+libc = "0.2"
+mio = "0.6"
